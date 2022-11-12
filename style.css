@@ -1,0 +1,32 @@
+img {
+  border: radius 10px;;
+  width: 20px;
+  height: 20px ;
+ 
+}
+body 
+{
+  text-align:center;
+  background:pink;
+    background-repeat:no-repeat;
+}
+h1 {
+  text-shadow:2px 2px ;
+  font-size:30px;
+ font-family: 'Dancing Script', cursive;
+  
+}
+ 
+ 
+#bio{
+  padding:20px;
+  font-size:18px;
+  text-align:center; 
+  font-family: 'Dancing Script', cursive;
+}
+
+p {
+  
+  font-size:20px;
+  font-family: 'Dancing Script', cursive;
+ }
